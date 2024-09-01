@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Player 2 scored
+  - Player 1 scored
+  - Goal1
+  - Goal2
   layers:
   - Default
   - TransparentFX
